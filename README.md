@@ -1,4 +1,4 @@
-# Biodiversity in U.S. National Parks
+# 🦫 Biodiversity in U.S. National Parks
 Final portfolio project of Codecademy Data Science course.
 
 The aim of this project is to analyze biodiversity data from the National Parks Service, precisely about different species observed across different national park locations.
